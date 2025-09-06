@@ -89,3 +89,6 @@ En particular te lo recomiendo si eres:
 Los estudiantes ganaran con nosotros habilidad práctica sobre la programación de Smart Contracts. Y tendrás acceso a todo el material y transparencias del curso e incluso tendrás un certificado de completación del curso al final del mismo que podrás subir a LinkedIn para mostrar tus nuevas habilidades en Blockchain y Solidity.
 
 ¡Nos vemos en clase!
+
+
+`If you have any question with this project,feel free to reach out`
